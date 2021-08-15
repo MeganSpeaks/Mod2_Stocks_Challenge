@@ -5,7 +5,7 @@ The goal of this project is to refactor code in order to make our VBA scrip run 
 - My refactoring did not yield faster results for either year.  I believe this is because I had some trouble writing the code for Step 4, which was looping through all arrays.
 
 - - Original 2017 Run Time
-![Results of Original Code 2017](/Results_of_Original_Code_run_time.png)
+![Results of Original Code 2017](/Results_of_Original_Code_2017_run_time.png)
 
 - - Refactored 2017 Run Time
 ![VBA_Challenge_2017](/VBA_Challenge_2017.PNG)

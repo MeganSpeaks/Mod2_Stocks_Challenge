@@ -3,6 +3,19 @@
 The goal of this project is to refactor code in order to make our VBA scrip run faster and use less memory, which will be more convenient for our client.
 ## Results
 - My refactoring did not yield faster results for either year.  I believe this is because I had some trouble writing the code for Step 4, looping through all arrays.
+
+- - Original 2017 Run Time
+[Original_2017]/(Results_of_Original_Code_2017_run time.PNG)
+
+- - Refactored 2017 Run Time
+[Refactored_2017]/(VBA_Challenge_2017.PNG)
+
+- - Original 2018 Run Time
+[Original_2018]/(Results_of_Original_Code_2018_run_time.PNG)
+
+- - Refactored 2018 Run Time
+[Refactored_2018]/(VBA_Challenge_2018.PNG)
+
 ## Summary
 -	What are the advantages and disadvantages of refactoring code?
 -	- If you can get the code to run faster through refactoring, there is much benefit.  

@@ -2,7 +2,7 @@
 ## Overview of Project
 The goal of this project is to refactor code in order to make our VBA scrip run faster and use less memory, which will be more convenient for our client.
 ## Results
-- My refactoring did not yield faster results for either year.  I believe this is because I had some trouble writing the code for Step 4, looping through all arrays.
+- My refactoring did not yield faster results for either year.  I believe this is because I had some trouble writing the code for Step 4, which was looping through all arrays.
 
 - - Original 2017 Run Time
 ![Results_of_Original_Code_2017_run_time](/Results_of_Original_Code_2017_run_time.PNG)
